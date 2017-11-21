@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.futeboldospais.futeboldospais.util.ModalJogos">
+
+    <android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginStart="-5dp"
+        android:layout_marginTop="-5dp"
+        android:background="@color/white"
+        android:focusable="false"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="3dp"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Informações"
+                android:textSize="16dp"/>
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/div_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/titulo">
+
+        <ImageView
+            android:id="@+id/img_swipe"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/ic_swipe"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/img_swipe"
+            android:gravity="center|start"
+            android:text="Você pode navegar entre as rodadas utilizando os botões ou deslizando o dedo sobre o título das rodadas!" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/div_1"
+        android:layout_marginBottom="20dp">
+
+        <ImageView
+            android:id="@+id/img_touch"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/ic_touch"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center|start"
+            android:layout_toEndOf="@+id/img_touch"
+            android:text="Você pode ver a súmula tocando no jogo que deseja ver!" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

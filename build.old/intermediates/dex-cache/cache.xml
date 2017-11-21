@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\denilson.oliveira\.android\build-cache\0acfbe8680541ee3f0235f29b03a76fc9cdf12ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ced2c9cad18369f076d58319666767cfc6e378e4">
+        <dex dex="C:\Users\denilson.oliveira\AndroidStudioProjects\FutebolDosPais\app\build\intermediates\pre-dexed\debug\classes_265a4515b7485d59c57e775512aae24d290768df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\denilson.oliveira\.android\build-cache\96781f4edee1d23abc2ceb7831765df0b7823b61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a00d6ab1782155353f17bf1bb6cbbe319ffded4">
+        <dex dex="C:\Users\denilson.oliveira\AndroidStudioProjects\FutebolDosPais\app\build\intermediates\pre-dexed\debug\classes_98200aa25fbb38cee9aa2ac3d0de2a5d64ad055e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\denilson.oliveira\.android\build-cache\e0986c614b9e772e3ba20196b1e594c34370a659\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\denilson.oliveira\AndroidStudioProjects\FutebolDosPais\app\build\intermediates\pre-dexed\debug\classes_f27a37a337a15ee8fc76d88ca51434b7eb9b05a9.jar" />
+    </item>
+
+</items>

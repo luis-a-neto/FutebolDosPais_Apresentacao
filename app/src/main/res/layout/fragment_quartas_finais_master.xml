@@ -1,0 +1,109 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/scroll_classificacao"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentStart="true"
+    android:layout_below="@+id/relativeLayout"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context="br.com.futeboldospais.futeboldospais.controller.QuartasFinaisFragmentMaster">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:id="@+id/titulo_tabela_esq"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginLeft="0dp"
+                android:layout_marginRight="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/borda_inferior"
+                android:orientation="horizontal"
+                android:textColor="@color/grayLight">
+
+                <TextView
+                    android:layout_width="10dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="5dp"
+                    android:gravity="center"
+                    android:text="" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="120dp"
+                    android:layout_height="50dp"
+                    android:layout_marginStart="20dp"
+                    android:gravity="center"
+                    android:text="EQUIPE" />
+
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/quartas_tabela_esq"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/titulo_tabela_esq"
+                android:fastScrollEnabled="false"
+                android:scrollbars="none" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/titulo_tabela_esq">
+
+                <LinearLayout
+                    android:id="@+id/titulo_tabela_dir"
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:background="@drawable/borda_inferior"
+                    android:orientation="horizontal"
+                    android:textColor="@color/grayLight">
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="5dp"
+                        android:gravity="center"
+                        android:text="PG" />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:gravity="center"
+                        android:text="J" />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:gravity="center"
+                        android:text="V" />
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:gravity="center"
+                        android:text="SG" />
+                </LinearLayout>
+
+                <ListView
+                    android:id="@+id/quartas_tabela_dir"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/titulo_tabela_dir"
+                    android:layout_marginLeft="0dp"
+                    android:layout_marginRight="0dp"
+                    android:fastScrollEnabled="false"
+                    android:scrollbars="none" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.futeboldospais.futeboldospais.util.ModalClassificacao">
+
+    <android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/titulo"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="-5dp"
+        android:layout_marginStart="-5dp"
+        android:layout_marginTop="-5dp"
+        android:background="@color/white"
+        android:focusable="false"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="3dp"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="Critérios de Desempate"
+                android:textSize="16dp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+    <RelativeLayout
+        android:id="@+id/div_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titulo"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/txt_1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="1"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_1"
+            android:gravity="center|start"
+            android:text="Menor número de pontos disciplinares."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_1"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txt_2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="2"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_2"
+            android:gravity="center|start"
+            android:text="Maior número de vitórias."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_2"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txt_3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="3"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_3"
+            android:gravity="center|start"
+            android:text="Confronto direto, sem computar-se saldo de gols."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_3"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txt_4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="4"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_4"
+            android:gravity="center|start"
+            android:text="Menor número de cartões vermelhos."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_4"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txt_5"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="5"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_5"
+            android:gravity="center|start"
+            android:text="Maior saldo de gols."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_5"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txt_6"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="6"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_6"
+            android:gravity="center|start"
+            android:text="Maior número de gols a favor."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/div_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/div_6"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            android:id="@+id/txt_7"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="7"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/txt_7"
+            android:gravity="center|start"
+            android:text="Sorteio."
+            android:textSize="12sp" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
+

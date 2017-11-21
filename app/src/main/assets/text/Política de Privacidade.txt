@@ -1,0 +1,157 @@
+LICENÇA.
+
+TERMOS E CONDIÇÕES DO USUÁRIO, REPRODUÇÃO E DISTRIBUIÇÃO.
+
+
+1. EM GERAL.
+
+O aplicativo Futebol dos Pais é licenciado, não vendido, a você pelo Colégio Marista Arquidiocesano para uso em estrita conformidade com os termos e condições desta licença. E quaisquer “regras de utilização” estabelecida por qualquer outras regras de utilização de terceiros ou termos de uso, tais como Play Store e os demais fornecedores (“Regras de Utilização”), que são aqui incorporadas por referência. O termo “aplicativo” refere e consiste no seguinte: 
+(i) o aplicativo de software móvel FUTEBOL DOS PAIS, desta Licença, incluindo, sem limitação, qualquer código de software, os scripts, interfaces gráficos, displays, texto, documentação e outros componentes.
+(ii) quaisquer atualizações, modificações ou melhorias para os itens listados no subitem (i).
+(iii) qualquer site específico do aplicativo direciona para através de qualquer navegador localizado em qualquer dispositivo móvel.
+
+
+2. CONCESSÃO DE LICENÇA E RESTRIÇÕES DE USO.
+
+2.1 Concessão de Licença. 
+
+A Comissão Executiva lhe concede uma licença não-exclusiva e não-transferível, revogável, limitado a instalar e usar o aplicativo em dispositivos móveis de propriedade e controladas por você, e para acessar e usar o aplicativo em tais dispositivos móveis, em estrita conformidade com os termos e condições desta Licença e com as Regras de Utilização e qualquer acordo de serviço relacionado com seus dispositivos móveis (coletivamente, “acordos relacionados”).
+
+2.2 Restrições de uso.
+Você deve usar o aplicativo em estrita conformidade com os termos dos respectivos contratos e não deve: 
+(a) Descompilar, fazer engenharia reversa, desmontar, tentar obter o código fonte, ou decifrar o Aplicativo.
+(b) Fazer qualquer modificação, adaptação, melhoria, aperfeiçoamento, tradução ou trabalho derivado de Aplicação.
+(c) Violar quaisquer leis, regras e regulamentos em relação ao seu acesso ou utilização da Aplicação.
+(d) Remover, alterar ou ocultar qualquer aviso de propriedade (incluindo qualquer aviso de copyright ou marca) da Comissão Executiva ou suas afiliadas, parceiros, fornecedores ou os licenciadores.
+(e) Usar o aplicativo para qualquer empreendimento de geração de receita, empresa comercial, ou outra finalidade para a qual ele não foi projetado ou previsto.
+(f) Disponibilizar o aplicativo através de uma rede ou outro ambiente que permitam o acesso ou uso por vários dispositivos móveis ou usuários ao mesmo tempo.
+(g) Usar o aplicativo para criar um produto, serviço ou software que seja, direta ou indiretamente, competitivo, com ou de qualquer forma um substituto para qualquer serviço, produto ou software oferecido pela Comissão Executiva do Colégio Arquidiocesano.
+ 
+
+
+
+
+3. DIREITOS DE PROPRIEDADE INTELECTUAL.
+
+2.3 Direitos da aplicação.
+ Você reconhece e concorda que a aplicação e todos os direitos autorais, patentes, marcas, segredos comerciais e outros direitos de propriedade intelectual que lhe estão associados são, e devem permanecer, de propriedade da Comissão Executiva. Além disso. Você reconhece e concorda que o código fonte e objeto dos pedidos e o formato, diretórios, consultas, algoritmos, estrutura e organização do aplicativo são de propriedade intelectual e as informações confidenciais e proprietárias da Comissão Executiva do Colégio Arquidiocesano e suas afiliadas, licenciadores e fornecedores. Exceto quando expressamente indicado nesta Licença. A você não são concedidos quaisquer direitos de propriedade intelectual ou para a aplicação, por implicação, preclusão ou de outra teoria legal, e todos os direitos sobre a Aplicação não concedidos expressamente nesta licença ficam reservadas e mantidas em nome de Comissão Executiva.
+
+
+4. SOFTWARE DE TERCEIROS. 
+A Aplicação pode utilizar ou incluir software de terceiros que está sujeito ao código aberto e os termos de licença de terceiros (“Software de Terceiros”). Você reconhece e concorda que seu direito de usar este software de terceiros como parte da aplicação é sujeito e regido pelos termos e condições do “open source” ou de licença de terceiros aplicável a tal Software de Terceiros, incluindo, sem limitação, qualquer lei, reconhecimentos, termos de licença e isenções de responsabilidade nele contidas. Em caso de um conflito entre os termos desta Licença e os termos de licenças de terceiros ou fonte, os termos de licenças de terceiros, open source ou outro, deve controlar sua utilização do Software relevante de Terceiros. Em nenhum caso, deve o Aplicativo ou seus componentes considerados como “open source” ou software “disponível publicamente”.
+
+
+
+5. MARCA DO FUTEBOL DOS PAIS.
+ Você não está autorizado a usar as marcas registradas Futebol dos Pais em qualquer propaganda, publicidade ou de qualquer outra forma comercial sem o prévio consentimento por escrito da Comissão Executiva do Colégio Arquidiocesano, que pode ser retida por qualquer motivo ou mesmo sem motivo. 
+
+
+6. RECONHECIMENTO DE VIOLAÇÃO. 
+Você e a Comissão Executiva reconhecem e concordam que, no caso de uma reclamação de terceiros que a aplicação ou a sua posse ou uso do Aplicativo viola os direitos de propriedade intelectual de qualquer terceiro. Você (e não a Comissão Executiva) será responsável pela investigação, defesa, liquidação e quitação de qualquer alegação de violação de propriedade intelectual. Você, no entanto, irá notificar prontamente a Comissão Executiva, por escrito, de tal alegação.
+
+
+7. RESTRIÇÃO À TRANSFERÊNCIA.
+Você não pode alugar, arrendar, emprestar, sub-licenciar ou transferir a aplicação, esta Licença ou qualquer dos direitos concedidos. Qualquer tentativa de transferência, em violação desta disposição será nula e de nenhum valor ou efeito.
+
+
+8. USO DE INFORMAÇÕES.
+
+Autorização para a utilização da informação. Você autoriza e concorda com a coleta, armazenamento e uso, por Comissão Executiva e seus afiliados, parceiros e agentes, de quaisquer informações e dados relacionados com ou derivados de sua utilização da Aplicação, e quaisquer informações ou dados que você fornece para Comissão Executiva e seus afiliados, parceiros e licenciadores (“Informações”). Sem limitar a generalidade do acima exposto, a informação deve incluir, sem limitação, os seguintes tipos de informações e dados, em um (não em nível de usuário) agregado de forma: as solicitações de pesquisa, resultados de pesquisa, padrões de dados e sugestões com base nas ações do usuário. Não obstante o acima, você não deve fornecer informações e não deve incluir quaisquer informações ou dados que sejam pessoalmente identificáveis. As informações serão tratadas como sendo não-confidenciais e não protegidas, e a Comissão Executiva não assume qualquer obrigação de proteger informações confidenciais ou proprietárias (exceto informações de identificação pessoal) de ser divulgado e estará livre para reproduzir, utilizar e distribuir as informações para terceiros sem restrição. 
+A Comissão Executiva do Colégio Arquidiocesano também estará livre para usar quaisquer idéias, conceitos, know-how ou técnicas contidas nas Informações para quaisquer fins, incluindo, sem limitação, desenvolvimento, fabricação e comercialização de produtos e serviços incorporando tais informações.
+
+
+9. POLITICA DE PRIVACIDADE. 
+
+Você declara que devem cumprir com os termos e condições da Política de Privacidade da Comissão Executiva, que apresenta e descreve as práticas desta com relação à coleta, uso e divulgação de informações em conexão com o uso do aplicativo. Comissão Executiva reserva-se o direito de alterar as disposições da sua Política de Privacidade a qualquer momento e de tempos em tempos, a seu exclusivo critério. A Comissão Executiva irá postar qualquer mudança em sua política de privacidade no endereço web estabelecido no preâmbulo desta Licença. O uso do aplicativo após a publicação de tais alterações à Política de Privacidade constituirá a sua aceitação de tais alterações.
+10.  MATERIAIS INADEQUADOS.
+ Você entende que ao acessar e utilizar o Conteúdo e Serviços de Terceiros. Você pode encontrar informações, materiais e assuntos:
+(i)	Que você ou outras pessoas podem considerar ofensivo, indecente ou censurável.
+(ii)	Que pode ou não pode ser identificado como tendo linguagem explícita, e:
+(iii)	Que automaticamente não aparece nos resultados de busca, como um link ou referência a material censurável. Não obstante o acima, Você concorda em usar o conteúdo e serviços de terceiros a seu próprio risco e que a Comissão Executiva e seus afiliados, parceiros, fornecedores e licenciadores não terá qualquer responsabilidade por informação, material ou assunto que é considerado ofensivo, indecente, ou censurável.
+
+
+10. UTILIZAÇÃO DE CONTEÚDO DE TERCEIROS E SERVIÇOS
+
+Você concorda que o Conteúdo e Serviços de Terceiros contêm informações proprietárias e material que é de propriedade da Comissão Executiva e seus afiliados, parceiros, fornecedores e licenciadores e está protegido pela propriedade intelectual aplicável e outras leis, incluindo, sem limitação, nos termos do direito de autor, e que você não vai utilizar essas informações ou materiais proprietários de nenhuma forma, exceto para uso permitido do conteúdo e Serviços de Terceiros. Nenhuma parte do Conteúdo e Serviços de Terceiros pode ser reproduzida em qualquer forma ou por qualquer meio. Você concorda em não modificar, alugar, locar, emprestar, vender, distribuir ou criar obras derivadas a partir do conteúdo e serviços de terceiros, de qualquer maneira, e você não deve explorar o Conteúdo de Terceiros e Serviços de qualquer forma não autorizada, incluindo, sem limitação, por invasão ou sobrecarga da capacidade da rede. Você concorda que não irá utilizar qualquer Conteúdo e Serviços de Terceiros de forma a infringir ou violar os direitos de qualquer outra parte, e que Comissão Executiva não é de forma alguma responsável por qualquer utilização por Você.
+
+
+11. PRAZO E RESCISÃO.
+
+ Prazo. Esta Licença entra em vigor até que seja rescindido.
+
+12. RESCISÃO. 
+
+A Comissão Executiva poderá, a seu critério exclusivo e absoluto, a qualquer momento e por qualquer motivo ou sem motivo, suspender ou cancelar esta Licença e os direitos concedidos a você por este instrumento com ou sem aviso prévio. Além disso, se você deixar de cumprir com todos os termos e condições desta Licença, então esta Licença e quaisquer direitos concedidos a você abaixo cessará automaticamente, sem qualquer aviso ou outra ação pela Comissão Executiva.
+
+
+13. GARANTIAS. 
+
+VOCÊ CONCORDA QUE A APLICAÇÃO É FORNECIDA “COMO ESTÁ” E “COMO DISPONÍVEL”, E QUE SEU USO OU CONFIANÇA NA APLICAÇÃO E QUALQUER CONTEÚDO DE TERCEIROS E SERVIÇOS ACESSADOS ASSIM É POR SUA CONTA E RISCO E DISCRIÇÃO. A COMISSÃO EXECUTIVA E SUAS AFILIADAS, PARCEIROS E FORNECEDORES, LICENCIADORES, RENUNCIAM TODAS E QUAISQUER REPRESENTAÇÕES E GARANTIAS À APLICAÇÃO E CONTEÚDO DE TERCEIROS E SERVIÇOS, SEJA EXPRESSA OU IMPLÍCITA, E, INCLUINDO, SEM LIMITAÇÃO, AS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO PARA UM DETERMINADO FIM, E NÃO VIOLAÇÃO. ALÉM DISSO, A COMISSÃO EXECUTIVA E SEUS AFILIADOS, PARCEIROS, FORNECEDORES E LICENCIADORES NÃO GARANTEM QUE:
+(I)	A APLICAÇÃO OU CONTEÚDO DE TERCEIROS E SERVIÇOS ATENDERÁ AOS REQUISITOS;
+(II)    A APLICAÇÃO OU CONTEÚDO DE TERCEIROS E SERVIÇOS SERÃO ININTERRUPTOS, PRECISOS E CONFIÁVEIS, PONTUAL, SEGURO E SEM ERROS; 
+(III)	A QUALIDADE DE QUAISQUER PRODUTOS, SERVIÇOS, INFORMAÇÃO OU OUTRO MATERIAL ACESSADO OU OBTIDOS POR VOCÊ COM O APLICATIVO SERÁ COMO REPRESENTADO OU SUAS EXPECTATIVAS; OU
+(IV)	QUAISQUER ERROS NO APLICATIVO OU CONTEÚDO E SERVIÇOS DE TERCEIROS SERÃO CORRIGIDOS NO AVISO OU INFORMAÇÃO, VERBAL OU POR ESCRITO. ALÉM DISSO, VOCÊ RECONHECE QUE A COMISSÃO EXECUTIVA NÃO TEM OBRIGAÇÃO DE CORRIGIR QUAISQUER ERROS OU DE OUTRA FORMA APOIAR OU MANTER A APLICAÇÃO.
+
+
+14. LIMITAÇÃO DE RESPONSABILIDADE. 
+
+EM HIPÓTESE ALGUMA A COMISSÃO EXECUTIVA ou SUAS AFILIADAS, PARCEIROS, FORNCEDORES OU LICENSIADORES SERÃO RESPONSÁVEIS POR QUAISQUER DANOS INCIDENTAIS INDIRETOS, ESPECIAIS OU EXEMPLARES DECORRENTES DE OU EM CONEXÃO COM O SEU ACESSO OU IMPOSSIBILIDADE DE ACESSO OU USO DO APLICATIVO E QUALQUER CONTEÚDO E SERVIÇOS DE TERCEIROS. MESMO QUE POSSÍVEIS DANOS TENHAM SIDO AVISADOS, PREVISTOS, OU QUE A COMISSÃO EXECUTIVA TENHA SIDO AVISADA DE POSSÍVEIS DANOS.
+
+
+15. INDENIZAÇÃO. 
+Você deverá indenizar, defender e isentar a Comissão Executiva e seus afiliados, parceiros, fornecedores e licenciadores, e cada um de seus respectivos funcionários, diretores, agentes e funcionários (as “Partes indenizadas”) de e contra qualquer reivindicação, processo. perda, dano, multa, penalidade, juros e despesas (incluindo, sem limitação, honorários de advogados e outros consultores profissionais) decorrentes de ou em conexão com o seguinte: 
+(i)	o seu acesso ou utilização da Aplicação ou Conteúdo de Terceiros e Serviços; 
+(ii)	A sua violação desta Licença; 
+(iii)   violação de lei; 
+(iv)    A sua culpa ou dolo; ou 
+(v)     a violação dos direitos de terceiros, incluindo a violação por Você de qualquer propriedade intelectual ou apropriação indevida de qualquer direito ou segredos comerciais de propriedade de qualquer pessoa ou entidade. Estas obrigações subsistirão após o término da licença.
+
+16. COMPATIBILIDADE. 
+
+A Comissão Executiva não garante que o aplicativo será compatível ou Inter operável com o dispositivo móvel ou qualquer outra peça de hardware, software, equipamento ou dispositivo instalado ou utilizado em conexão com o seu dispositivo móvel. Além disso. Você reconhece que problemas de compatibilidade e interoperabilidade podem fazer com que o desempenho do seu dispositivo móvel possa diminuir ou falhar completamente, e pode resultar em permanente dano ao seu dispositivo móvel, a perda dos dados localizados em seu dispositivo móvel, e corrupção do software e arquivos localizado em seu dispositivo móvel. Você reconhece e concorda que a Comissão Executiva e seus afiliados, parceiros, fornecedores e licenciadores não terá nenhuma responsabilidade por quaisquer danos sofridos resultantes ou que surja em conexão com problemas de compatibilidade ou de interoperabilidade.
+
+
+17. AS RECLAMAÇÕES DO PRODUTO. 
+
+Você reconhece que você (não Comissão Executiva) é responsável por lidar com quaisquer reclamações de terceiros relacionadas ao seu uso ou posse da Aplicação, e concorda em notificar a Comissão Executiva de quaisquer reclamações de terceiros relacionadas com a aplicação de que tenha conhecimento. Além disso, você decide liberar a Comissão Executiva de qualquer responsabilidade decorrente de sua utilização ou posse do aplicativo, incluindo, sem limitação, o seguinte: 
+(i)	qualquer reclamação de responsabilidade do produto; 
+(ii)	(ii) qualquer alegação de que a aplicação não está em conformidade com todos os requisitos legais ou regulamentares aplicáveis; e:
+(iii)	 (iii) qualquer reclamação resultante da defesa do consumidor ou legislação similar.
+
+
+
+18. DIVERSOS.
+
+Lei Aplicável. 
+Esta Licença será considerada como tendo lugar no Estado de São Paulo e deverá ser regido e interpretado de acordo com as leis do Brasil, excluindo seus conflitos de princípios legais. Qualquer litígio decorrente desta Licença deve ser julgado nos tribunais da cidade de São Paulo. Esta Licença não será regida pela Convenção das Nações Unidas sobre Contratos para a Venda Internacional de Mercadorias, cuja aplicação está expressamente excluída.
+
+
+19. Severidade. 
+
+Se qualquer disposição desta Licença for considerada inválida ou ineficaz em relação a uma das partes, o restante desta Licença, ou a aplicação de tal disposição para fins diferentes daqueles para os quais a pessoa é considerada inválida ou inexequível, não é afetada e cada remanescente disposição desta Licença é válida e aplicável em toda a extensão permitida por lei.
+
+
+20. Renúncia. 
+Salvo disposição em contrário, o não exercício de um direito ou de exigir o cumprimento de uma obrigação nos termos desta Licença, não procede, capacidade de uma parte de exercer tal direito ou exigir tal cumprimento em qualquer momento posterior nem a renúncia de violação constitui renúncia de qualquer subsequente violação.
+
+
+21. Controle de Exportação. 
+Você não pode usar ou exportar ou reexportar o aplicativo, exceto se autorizado pela legislação brasileira e as leis da jurisdição (es) em que o recurso foi obtido. Você declara e garante que não está localizado em qualquer país que esteja sujeito a um embargo do governo brasileiro, ou que tenha sido designada pelo governo brasileiro como um país “terrorista de apoio”, ou listado em qualquer lista de partidos proibidos ou restritos pelo governo brasileiro. Você também concorda que não irá usar a aplicação para quaisquer fins proibidos pela legislação brasileira.
+
+
+22. REMANESCENTES.
+ As seções a seguir desta Licença e quaisquer outras disposições desta Licença que, pela sua linguagem expressa ou por seu contexto são destinados para sobreviver ao término desta Licença devem sobreviver a esse encerramento: 1, 2.2, 3, 4, 5, 7, 8, 9, 10, 12 e 13.
+
+
+23. CESSÃO.
+ Exceto conforme permitido na Seção 4, Você não pode atribuir esta Licença ou quaisquer direitos ou obrigações aqui sem o prévio consentimento por escrito da Comissão Executiva e qualquer tentativa de cessão em violação desta disposição será nula e de nenhum valor ou efeito.
+
+
+24. ACORDO INTEGRAL. 
+
+Esta Licença incluindo os documentos aqui incorporados por referência constituem o acordo no que diz respeito ao uso da infra licenciada Aplicação e substitui todos os entendimentos anteriores ou contemporâneos relativos a esta matéria.
+
+
+
+
+							                                                                               São Paulo, 21 de Novembro de 2017.

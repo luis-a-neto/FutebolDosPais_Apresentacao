@@ -1,0 +1,92 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="br.com.futeboldospais.futeboldospais.controller.ClassificacaoQuartasFragment">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/efeito_sombra"
+        android:orientation="horizontal"
+        android:paddingBottom="0dp"
+        android:weightSum="1.0">
+
+        <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1.0">
+
+            <RadioButton
+                android:id="@+id/master"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:background="@drawable/efeito_filter"
+                android:button="@null"
+                android:checked="true"
+                android:paddingTop="15dp"
+                android:paddingBottom="17dp"
+                android:text="Master"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <RadioButton
+                android:id="@+id/senior"
+                android:layout_width="0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight=".5"
+                android:button="@null"
+                android:paddingTop="15dp"
+                android:paddingBottom="17dp"
+                android:text="Sênior"
+                android:textAlignment="center"
+                android:textColor="@color/gray_light"
+                android:textSize="16sp"
+
+                />
+        </RadioGroup>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.design.widget.TabLayout
+                android:id="@+id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#E9EBEE"
+                app:tabGravity="center"
+                app:tabIndicatorColor="@color/black"
+                app:tabMode="fixed">
+
+                <android.support.design.widget.TabItem
+                    android:id="@+id/tab_principal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Principal" />
+
+                <android.support.design.widget.TabItem
+                    android:id="@+id/tab_repescagem"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Repescagem" />
+            </android.support.design.widget.TabLayout>
+
+        </android.support.v4.view.ViewPager>
+    </RelativeLayout>
+
+
+</FrameLayout>
